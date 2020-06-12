@@ -1,3 +1,3 @@
 #!/bin/sh
 uci show network
-exit 1
+exit 0
