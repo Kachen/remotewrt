@@ -1,2 +1,3 @@
 #!/bin/sh
-exit 1
+date
+exit 0
